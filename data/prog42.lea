@@ -1,0 +1,6 @@
+begin
+	if (0 < 1) then
+		print("true");
+	else
+		print("false");
+end
